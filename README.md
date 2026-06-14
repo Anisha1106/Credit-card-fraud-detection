@@ -135,11 +135,3 @@ Open any notebook from the `Code` folder and execute the cells.
 
 ---
 
-## 👩‍💻 Author
-
-Anisha 
-
-Machine Learning Enthusiast | Data Science Learner
-
----
-
